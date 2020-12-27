@@ -252,6 +252,7 @@ public abstract  class Personnage {
 
     /**
      * fonction qui enleve des pv au personnage, si il n'en a plus, il perd une vie
+     non utilisé pour l'instant mais pourra l'être si on rajoute des classes de personnage
      * @param degats
      */
     public void enleverPv(int degats){
