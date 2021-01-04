@@ -8,9 +8,9 @@
 # Installation
 ##
 # Auteurs
-## *Johanna FERICEAN _ johannafericean@gmail.com
-## *Ghinevra COMITI _ ghinevrac@gmail.com
-# ---
+### *Johanna FERICEAN _ johannafericean@gmail.com
+### *Ghinevra COMITI _ ghinevrac@gmail.com
+## ---
 
 # Contribuant( bug etc)
 ##
