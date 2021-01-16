@@ -5,15 +5,13 @@
 ### Le dossier "Smash Final" contient le résultat final de notre projet.
 ### ---
 
-# Installation
-##
 # Auteurs
 ### *Johanna FERICEAN _ johannafericean@gmail.com
 ### *Ghinevra COMITI _ ghinevrac@gmail.com
 ## ---
 
 # Contribuant( bug etc)
+### sans interface d'utilisateurs
+
 ##
 
-smash_version 2 date du 09/12
-les autres dossiers sont biens datés
